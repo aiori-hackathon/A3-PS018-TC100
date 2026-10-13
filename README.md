@@ -1,7 +1,7 @@
 # AIORI-3-HACKATHON-PROJECTS
 This repository will contain the code and resources for the AIORI-3 hackathon that will be developed during the AIORI-3
 
-# [A3-PS018-TC100]
+# A3-PS018-TC100
 
 **Hackathon:** AIORI Hackathon 3
 **Team Name:** Team FLUX
