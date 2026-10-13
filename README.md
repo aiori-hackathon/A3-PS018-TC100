@@ -3,9 +3,9 @@ This repository will contain the code and resources for the AIORI-3 hackathon th
 
 # [A3-PS018-TC100]
 
-**Hackathon:** [AIORI Hackathon 3]  
-**Team Name:** [Team FLUX]  
-**Problem Statement ID:** [ PS-018 : HAPS Link-Quality Prediction Using a Documented Channel Model ]
+**Hackathon:** AIORI Hackathon 3
+**Team Name:** Team FLUX
+**Problem Statement ID:**  PS-018 : HAPS Link-Quality Prediction Using a Documented Channel Model 
 
 ## 👥 Team Details
 
