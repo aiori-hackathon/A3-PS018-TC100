@@ -7,6 +7,12 @@ This repository will contain the code and resources for the AIORI-3 hackathon th
 **Team Name:** Team FLUX
 **Problem Statement ID:**  PS-018 : HAPS Link-Quality Prediction Using a Documented Channel Model 
 
+## 🎥 Introduction Video
+
+Watch our project introduction video on YouTube:
+
+▶️ **[Project Introduction Video](YOUTUBE_VIDEO_URL)**
+
 ## 👥 Team Details
 
 | Role | Name | Email |
@@ -23,9 +29,5 @@ This repository will contain the code and resources for the AIORI-3 hackathon th
 
 **Problem Statement:**  PS-018 : HAPS Link-Quality Prediction Using a Documented Channel Model
 
-## 🎥 Introduction Video
 
-Watch our project introduction video on YouTube:
-
-▶️ **[Project Introduction Video](YOUTUBE_VIDEO_URL)**
 
