@@ -11,8 +11,8 @@ This repository will contain the code and resources for the AIORI-3 hackathon th
 
 Watch our project introduction video on YouTube:
 
-▶️ **[Project Introduction Video](YOUTUBE_VIDEO_URL)**
-
+▶️ **[Project Introduction Video]([YOUTUBE_VIDEO_URL](https://youtu.be/i-N43g7IGmg))**
+        https://youtu.be/i-N43g7IGmg
 ## 👥 Team Details
 
 | Role | Name | Email |
